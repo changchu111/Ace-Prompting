@@ -86,3 +86,6 @@ Awesome ChatGPT Prompts lists many interesting examples[2]. Here are some exampl
 ## Reference
 1. Eloundou, T., Manning, S., Mishkin, P., & Rock, D. (2023). GPTs are GPTs: An Early Look at the Labor Market Impact Potential of Large Language Models. arXiv preprint arXiv:2303.10130
 2. https://learnprompting.org/docs/basics/roles
+
+
+[Next Section (Basic Applications)](prompting-basic-applications.md)
