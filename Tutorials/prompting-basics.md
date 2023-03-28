@@ -4,8 +4,8 @@ In this chapter, we introduce basic concepts and techniques about prompt enginee
 
 Topics:
 - [Introduction](#Introduction)
-- [Giving Instructions](#Giving Instructions)
-- [Role Prompting](#Role Prompting)
+- [Giving Instructions](#Giving-Instructions)
+- [Role Prompting](#Role-Prompting)
 - Specificity
 - Giving Examples
 - Prompt Elements
