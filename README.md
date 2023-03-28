@@ -9,8 +9,8 @@ As AI becomes increasingly important in our daily lives, it is crucial for every
 ## Tutorial
 The following are tutorials we developed. It's still work in progress
 - [Basics](/Tutorials/prompting-basics.md)
-- Basic Applications
-- Advanced Techniques
+- [Basic Applications](/Tutorials/prompting-basic-applications.md)
+- [Advanced Techniques](/Tutorials/prompting-advanced-techniques.md)
 - Reliability
 - Image Prompting
 - Prompt Hacking
