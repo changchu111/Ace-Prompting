@@ -8,7 +8,7 @@ As AI becomes increasingly important in our daily lives, it is crucial for every
 
 ## Tutorial
 The following are tutorials we developed. It's still work in progress
-- Basics
+- [Basics](/tutorials/prompting-basics)
 - Basic Applications
 - Advanced Techniques
 - Reliability
