@@ -11,10 +11,11 @@ The following are tutorials we developed. It's still work in progress
 - [Basics](/Tutorials/prompting-basics.md)
 - [Basic Applications](/Tutorials/prompting-basic-applications.md)
 - [Advanced Techniques](/Tutorials/prompting-advanced-techniques.md)
-- Reliability
-- Image Prompting
-- Prompt Hacking
-- Tooling Bibliography
+- [Reliability](/Tutorials/prompting-reliability.md)
+- [Image Prompting](/Tutorials/prompting-image-prompting.md)
+- [Prompt Hacking](/Tutorials/prompting-hacking.md)
+- [Tooling](/Tutorials/prompting-tooling.md)
+- [Bibliography](/Tutorials/prompting-bibliography.md)
 
 ***
 
