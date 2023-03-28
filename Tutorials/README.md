@@ -5,8 +5,8 @@ The following are lectures on prompt engineering developed by us. They are still
 - [Basics](prompting-basics.md)
 - [Basic Applications](prompting-basic-applications.md)
 - [Advanced Techniques](prompting-advanced-techniques.md)
-- Reliability
-- Image Prompting
-- Prompt Hacking
-- Tooling
-- Bibliography
+- [Reliability](prompting-reliability.md)
+- [Image Prompting](prompting-image-prompting.md)
+- [Prompt Hacking](prompting-hacking.md)
+- [Tooling](prompting-tooling.md)
+- [Bibliography](prompting-bibliography.md)
