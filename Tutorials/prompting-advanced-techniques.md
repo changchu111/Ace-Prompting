@@ -22,3 +22,7 @@ Chain-of-thought prompting is an emergent ability of model scale. That is, chain
 
 ## Reference
 1. Wei, J., Wang, X., Schuurmans, D., Bosma, M., Chi, E., Le, Q., & Zhou, D. (2022). Chain of thought prompting elicits reasoning in large language models. arXiv preprint arXiv:2201.11903.
+
+[Previous Section (Basic Application)](prompting-basic-applications.md)
+
+[Next Section (Reliability)](prompting-reliability.md)
