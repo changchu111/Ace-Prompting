@@ -2,7 +2,7 @@
 
 The following are lectures on prompt engineering developed by us. They are still workd in progress.
 
-- Basics
+- [Basics](prompting-basics.md)
 - Basic Applications
 - Advanced Techniques
 - Reliability
