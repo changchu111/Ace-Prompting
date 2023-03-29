@@ -5,7 +5,9 @@ In this section, we introduce advanced techniques about prompt engineering.
 Topics:
 
 [Chain of Thought](#Chain-of-Thought)
+
 [Zero-Shot Chain of Thought](#Zero-Shot-Chain-of-Thought)
+
 [Self-Consistency](#Self-Consistency)
 
 ## Chain of Thought
