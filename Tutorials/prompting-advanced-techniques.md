@@ -20,8 +20,11 @@ Chain-of-thought prompting is an emergent ability of model scale. That is, chain
 
 ## Zero Shot Chain of Thought
 
+Zero Shot Chain of Thought (Zero-shot CoT) prompting[2] is a follow-up to CoT prompting. The authors found that LLMs become decent zero-shot reasoners by simply adding "Let’s think step by step" before each answer.
+
 ## Reference
 1. Wei, J., Wang, X., Schuurmans, D., Bosma, M., Chi, E., Le, Q., & Zhou, D. (2022). Chain of thought prompting elicits reasoning in large language models. arXiv preprint arXiv:2201.11903.
+2. Kojima, T., Gu, S. S., Reid, M., Matsuo, Y., & Iwasawa, Y. (2022). Large language models are zero-shot reasoners. arXiv preprint arXiv:2205.11916.
 
 [Previous Section (Basic Application)](prompting-basic-applications.md)
 
