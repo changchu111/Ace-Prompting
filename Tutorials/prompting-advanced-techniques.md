@@ -1,5 +1,13 @@
 # Advanced Techniques
 
+In this section, we introduce advanced techniques about prompt engineering.
+
+Topics:
+
+[Chain of Thought](#Chain-of-Thought)
+[Zero-Shot Chain of Thought](#Zero-Shot-Chain-of-Thought)
+[Self-Consistency](#Self-Consistency)
+
 ## Chain of Thought
 
 Chain of Thought (CoT) refers to a coherent series of intermediate reasoning steps that lead to the final answer for a problem. Including chain-of-thought reasoning in the exemplars for few-shot prompting can significantly improve the ability of large language models to perform complex reasoning.
@@ -34,6 +42,8 @@ Experimental results demonstrate that Zero-shot-CoT outperforms LLMs' zero-shot 
 
 ### Limitation
 LLMs have shown to capture and amplify biases found in the training data. Prompting is a method that looks to take advantage of the patterns captured by language models conducive to various tasks, and therefore it has the same shortcomings.
+
+## Self-Consistency
 
 ## Reference
 1. Wei, J., Wang, X., Schuurmans, D., Bosma, M., Chi, E., Le, Q., & Zhou, D. (2022). Chain of thought prompting elicits reasoning in large language models. arXiv preprint arXiv:2201.11903.
