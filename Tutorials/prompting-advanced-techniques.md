@@ -25,7 +25,7 @@ Zero Shot Chain of Thought (Zero-shot CoT) prompting[2] is a follow-up to CoT pr
 ![](../img/zero-shot-cot.png)
 
 How does Zero-shot-CoT work
-![](../img/how-does-zero-shot-cot-work.png)
+![](../img/how-zero-shot-cot-work.png)
 
 ### Examples
 
