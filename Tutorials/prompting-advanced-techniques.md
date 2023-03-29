@@ -3,6 +3,7 @@
 ## Chain of Thought
 
 Chain of Thought (CoT) refers to a coherent series of intermediate reasoning steps that lead to the final answer for a problem. Including chain-of-thought reasoning in the exemplars for few-shot prompting can significantly improve the ability of large language models to perform complex reasoning.
+![](../img/CoT.png)
 
 ### Tasks and Performance
 
