@@ -3,7 +3,7 @@ We’ve learned prompting techniques to get more accurate responses from LLMs. S
 
 Topics:
 - [Factuality](#Factuality)
-- Biases
+- [Biases](#Biases)
 - Calibration
 - Math
 
@@ -21,3 +21,8 @@ Effective ways to improve response factuality:
 参考prompt engineering guide
 
 ## Biases
+
+
+[Previous Section (Basic Application)](prompting-advanced-techniques.md)
+
+[Next Section (Reliability)](prompting-image-prompting.md)
