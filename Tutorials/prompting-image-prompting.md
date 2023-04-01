@@ -1,6 +1,6 @@
 # Image Prompting
 Comming soon...
 
-[Previous section](prompting-reliability.md)
+[Previous Section](prompting-reliability.md)
 
-[Next section](prompting-hacking.md)
+[Next Section](prompting-hacking.md)
