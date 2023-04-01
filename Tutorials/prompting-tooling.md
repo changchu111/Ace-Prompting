@@ -58,3 +58,12 @@ That’s where the **LlamaIndex** comes in. LlamaIndex is a simple, flexible i
 PromptPerfect is a cutting-edge prompt optimizer designed for large language models (LLMs), large models (LMs) and LMOps.
 
 Prompt engineering can be tough - a perfect prompt is the key for great AI-generated content. But don't worry, PromptPerfect has got you covered! Our cutting-edge tool streamlines prompt engineering, automatically optimizing your prompts for ChatGPT, GPT-3.5, DALL-E 2, StableDiffusion and MidJourney. Whether you're a prompt engineer, content creator, or AI developer, PromptPerfect makes prompt optimization easy and accessible. With its intuitive interface and powerful features, PromptPerfect unlocks the full potential of LLMs and LMs, delivering top-quality results every time. Say goodbye to subpar AI-generated content and hello to prompt perfection with PromptPerfect!
+
+## Reference:
+1. https://github.com/hwchase17/langchain/
+2. https://mp.weixin.qq.com/s/3coFhAdzr40tozn8f9Dc-w
+3. https://dust.tt/
+4. https://gpt-index.readthedocs.io/en/latest/
+5. https://promptperfect.jina.ai/
+
+[Previous Section](prompting-hacking.md)
