@@ -12,6 +12,7 @@ The following are tutorials we developed. It's still work in progress
 - [Basic Applications](/Tutorials/prompting-basic-applications.md)
 - [Advanced Techniques](/Tutorials/prompting-advanced-techniques.md)
 - [Reliability](/Tutorials/prompting-reliability.md)
+- [ChatGPT](/Tutorial/prompting-chatgpt.md)
 - [Image Prompting](/Tutorials/prompting-image-prompting.md)
 - [Prompt Hacking](/Tutorials/prompting-hacking.md)
 - [Tooling](/Tutorials/prompting-tooling.md)
