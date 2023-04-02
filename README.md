@@ -21,13 +21,20 @@
 
 如果你需要AIGC前沿信息分享和社群讨论，欢迎加入我的知识星球，https://t.zsxq.com/0cRQQzSbC
 
+## 目录
+
+- [基础篇]
+- [基础应用]
+- [进阶篇]
+- [可靠性]
+
 
 ## 感谢
 在制作本教程时参考了不少资料，在此表示感谢
 
-- https://learnprompting.org/docs/intro
-- https://github.com/dair-ai/Prompt-Engineering-Guide
-- https://docs.cohere.ai/docs/prompt-engineering
+- [Learn Prompting](https://learnprompting.org/docs/intro)
+- [Prompting-Engineering-Guide](https://github.com/dair-ai/Prompt-Engineering-Guide)
+- [Cohere Prompt Engineering](https://docs.cohere.ai/docs/prompt-engineering)
 
 更多的资料在教程中有Reference
 
