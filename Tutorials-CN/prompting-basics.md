@@ -24,4 +24,4 @@
 ## 给指令技巧
 
 
-[下一章节 - 入门应用](prompting-basic-application.md)
+[下一章节（入门应用）](prompting-basic-applications.md)
