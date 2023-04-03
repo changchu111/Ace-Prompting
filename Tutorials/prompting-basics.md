@@ -22,6 +22,7 @@ Prompt engineering is the art of working with large language models (LLMs). It i
 Prompt engineering is an essential aspect of developing LLM applications. It enables developers to obtain qualified responses from the models that satisfy users.
 
 examples:
+![](..\img\Examples\translation_with_clean.png)
 
 ### Why should we learn prompt engineering?
 
@@ -44,6 +45,10 @@ Giving instructions is the easiest and most commonly used prompting method. It r
 Below are some examples that provide instructions for LLMs.
 
 examples:
+![](../img/Examples/translation_with_instruction.png)
+![](../img/Examples/summarize.png)
+![](../img/Examples/calculation_with_instruct.png)
+![](../img/Examples/advice_marathon.png)
 
 It's worth noting that in the above example, different keywords lead to different results. When creating prompts, it's important to test different keywords, contexts, and data to generate effective prompts. Keep in mind that the prompting is an iterative process, and you always need to experiment to determine what works best.
 
@@ -52,6 +57,7 @@ It's worth noting that in the above example, different keywords lead to differen
 Another prompting technique is to assign a role to the LLMs. Assigning an role leads to more accurate outputs. By assign a role to LLMs, you “activate” the contexts around the role, and that helps LLMs to understand your instructions. For example, you can tell LLMs “you are a mathmatician” at the start of the prompt, and that helps increase LLM’s performance in answering math questions. 
 
 examples:
+![](..\img\Examples\role_primary_school_teacher.png)
 
 
 ### Examples:
