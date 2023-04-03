@@ -5,7 +5,7 @@
 内容：
 - [LangChain](#LangChain)
 - [Dust.tt](#Dust.tt)
-- [GPT Index](#GPT Index)
+- [GPT Index](#GPT-Index)
 - [PromptPerfect](#PromptPerfect)
 
 ## LangChain
