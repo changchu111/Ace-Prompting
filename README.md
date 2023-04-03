@@ -1,4 +1,5 @@
-# <center>Prompt Engineering Tutorial 提示词工程教程
+# Prompt Engineering Tutorial 
+# 提示词工程教程
 
 ## 🤔 关于本教程
 如果你不知道ChatGPT可以用来做什么，或者总是调不出想要的效果，那么这份教程会对你有帮助。
