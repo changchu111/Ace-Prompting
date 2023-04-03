@@ -30,7 +30,7 @@ Ace Prompting是一个prompt engineering社区，我们提供免费的prompting�
 
 ## 🚀 目录
 
-- [基础篇]
+- [基础篇 - Basics](Tutorials-CN/prompting-basics.md)
 - [基础应用]
 - [进阶篇]
 - [可靠性]
