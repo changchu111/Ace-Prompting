@@ -60,4 +60,5 @@ PromptPerfect的工具简化了提示词工程，自动优化ChatGPT、GPT-3.5�
 5. https://promptperfect.jina.ai/
 
 [上一章节（黑客篇）](prompting-hacking.md)
+
 [下一章节（参考文献）](prompting-bibliography.md)
