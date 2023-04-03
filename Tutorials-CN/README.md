@@ -4,11 +4,11 @@
 
 本教程的目录如下：
 
-- [基础篇](prompting-basics.md)
-- [入门应用](prompting-basic-applications.md)
-- [进阶篇](prompting-advanced-techniques.md)
-- [可靠性](prompting-reliability.md)
-- [图像篇](prompting-image-prompting.md)
-- [黑客篇](prompting-hacking.md)
-- [工具篇](prompting-tooling.md)
-- [参考文献](prompting-bibliography.md)
+- [基础篇 - Basics](prompting-basics.md)
+- [入门应用 - Basic Applications](prompting-basic-applications.md)
+- [进阶篇 - Advanced Techniques](prompting-advanced-techniques.md)
+- [可靠性 - Reliability](prompting-reliability.md)
+- [图像篇 - Image Prompting](prompting-image-prompting.md)
+- [黑客篇 - Prompt Hacking](prompting-hacking.md)
+- [工具篇 - Tooling](prompting-tooling.md)
+- [参考文献 - Bibliography](prompting-bibliography.md)
