@@ -1,5 +1,5 @@
 # Ace Prompting
-Ace Promting是一个prompt engineering社区，我们提供免费的prompting教程，也帮助社区成员互助学习和对接工作机会
+Ace Prompting是一个prompt engineering社区，我们提供免费的prompting教程，也帮助社区成员互助学习和对接工作机会
 
 加入我们的[Discord Community](https://discord.gg/eWD4shBz)
 
@@ -15,7 +15,7 @@ Ace Promting是一个prompt engineering社区，我们提供免费的prompting�
 
 ## 🥂 贡献你的力量
 
-我们欢迎每一位有兴趣共同建设这个开源项目的朋友，如果你想要补充示例、补充技巧、补充未完成部分，或者提供任何其他的建议，欢迎提交PR或Issue！
+我们欢迎每一位有兴趣共同建设这个开源项目的朋友，如果你想要补充示例、补充技巧、补充未完成部分，或者提供任何其他的建议，欢迎在Discord社区反馈、提交PR或者提交Issue！
 
 也希望大家可以帮忙把教程分享出去或者在GitHub上点一颗小星星，让这份教程帮助到更多人。
 
