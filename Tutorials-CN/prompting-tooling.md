@@ -8,7 +8,7 @@
 - [GPT Index](#GPT-Index)
 - [PromptPerfect](#PromptPerfect)
 
-## LangChain
+## [LangChain](https://github.com/hwchase17/langchain/)
 简单的调用大语言模型的API是有局限性的：
 
 - 大语言模型无法连接到外部资源，例如搜索引擎、API以及数据库
@@ -18,13 +18,13 @@ LangChain就是为了解决这些问题而生的。它由Robust Intelligence的�
 
 随着Harrison为LangChain添加了许多实用的抽象，以及2023年1月许多项目在Hackathon上使用LangChain，它在Github上的star数目迅速超过10,000，已然成为LLM应用程序开发人员的中间件首选。
 
-## Dust.tt
+## [Dust.tt](https://dust.tt/)
 Dust旨在提供一个灵活的框架来定义和部署[LLM应用程序](https://docs.dust.tt/introduction#large-language-model-apps)，而无需编写任何执行代码。它专门针对以下场景：
 - 在设计LLM应用时同时处理多个示例
 - 检查由LLM应用中间步骤产生的模型输出
 - 通过提供细粒度和自动化的版本控制系统来迭代LLM应用设计
 
-## GPT Index
+## [GPT Index](https://gpt-index.readthedocs.io/en/latest/)
 LlamaIndex(GPT Index)是一个提供中央接口将您的LLM与外部数据连接起来的项目。
 
 ### 背景
@@ -39,7 +39,7 @@ LlamaIndex(GPT Index)是一个提供中央接口将您的LLM与外部数据连�
 ### 推荐方案
 这些就是LlamaIndex可以发挥作用的地方。LlamaIndex是一个简单灵活的接口，可以连接LLM和您的外部数据。它以易于使用的方式提供了以下工具：
 
-- 为您现有的数据源和数据格式（API、PDF、文档、SQL等）提供数据连接器
+- 为您现有的数据源和数据格式（API、PDF、文档、SQL等）提供[数据连接器](https://llamahub.ai/)
 - 为您的非结构化和结构化数据提供索引，以便与LLM一起使用。这些索引有助于抽象出上下文学习的常见样板和痛点
     - 以易于访问的格式存储上下文以便快速插入
     - 当上下文太大时解决提示词字数限制
@@ -47,7 +47,10 @@ LlamaIndex(GPT Index)是一个提供中央接口将您的LLM与外部数据连�
 - 为用户提供查询索引（输入提示）和获得知识增强输出的界面
 - 为您提供全面的工具集，权衡成本和性能
 
-## PromptPerfect
+## [PromptPerfect](https://promptperfect.jina.ai/)
+PromptPerfect是专门为LLM设计的提示词优化器。
+
+PromptPerfect的工具简化了提示词工程，自动优化ChatGPT、GPT-3.5、DALL-E 2、StableDiffusion和Midjourney提示。无论您是提示工程师、内容创作者还是AI开发人员，PromptPerfect都能帮助您优化提示词。
 
 ## Reference
 1. https://github.com/hwchase17/langchain/
@@ -55,3 +58,6 @@ LlamaIndex(GPT Index)是一个提供中央接口将您的LLM与外部数据连�
 3. https://dust.tt/
 4. https://gpt-index.readthedocs.io/en/latest/
 5. https://promptperfect.jina.ai/
+
+[上一章节（黑客篇）](prompting-hacking.md)
+[下一章节（参考文献）](prompting-bibliography.md)
