@@ -1,4 +1,4 @@
-# Ace Prompting
+# 🏔️🌈Ace Prompting
 Ace Prompting是一个prompt engineering社区，我们提供免费的prompting教程，也帮助社区成员互助学习和对接工作机会
 
 加入我们的[Discord Community](https://discord.gg/eWD4shBz)
@@ -19,7 +19,7 @@ Ace Prompting是一个prompt engineering社区，我们提供免费的prompting�
 
 也希望大家可以帮忙把教程分享出去或者在GitHub上点一颗小星星，让这份教程帮助到更多人。
 
-或者你也可以[请我喝咖啡](https://www.buymeacoffee.com/chuchangcc)，鼓励一下我（在别的repo里看到，感觉很有意思，看看有没有人请我喝咖啡
+或者你也可以[请我喝咖啡](https://www.buymeacoffee.com/chuchangcc)，鼓励一下我（在别的repo里看到，感觉很有意思，看看有没有人请我喝咖啡hh
 
 
 ## 🛠️ 一些工具
