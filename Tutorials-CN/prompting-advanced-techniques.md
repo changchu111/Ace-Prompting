@@ -13,11 +13,15 @@
 ### 任务和表现
 实验表明思维链方法可以提升大语言模型在算数类、常识类、以及符号类任务的表现。
 
-#### 算数类任务
+#### 算数性任务
+![](../img/Examples/CoT_money.png)
 
-#### 常识类任务
+#### 常识性任务
+![](../img/Examples/CoT_commensense.png)
 
-#### 符号类任务
+#### 符号学任务
+![](../img/Examples/CoT_symbolic_false.png)
+![](../img/Examples/CoT_symbolic_true.png)
 
 ### 局限
 思维链是模型参数量变大涌现出的能力，也就是说，思维链并不能提升小模型的能力，当模型有100B参数是，思维链提成模型性能的作用才显现出来。
@@ -30,6 +34,7 @@
 ![](../img/how-zero-shot-cot-work.png)
 
 ### 示例
+![](../img/Examples/CoT_money_zero_shot.png)
 
 ### 局限
 研究者发现大语言模型会捕捉并放大训练数据中的偏差（Bias）。提示词是一种旨在利用语言模型在训练中学到的知识解决各类任务的方法，因此它也具有相同的缺点，会导致偏差。

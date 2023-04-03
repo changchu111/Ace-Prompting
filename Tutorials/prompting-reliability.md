@@ -2,10 +2,10 @@
 We’ve learned prompting techniques to get more accurate responses from LLMs. Sometimes, there are reliability issues in LLM responses, such as factuality, biases, calibration, math, etc. This section introduces techniques to make LLMs reliable.
 
 Topics:
-- [Factuality](#Factuality)
-- [Biases](#Biases)
-- Calibration
-- Math
+- [Reliability](#reliability)
+  - [Factuality](#factuality)
+    - [Examples](#examples)
+  - [Biases](#biases)
 
 ## Factuality
 
@@ -17,8 +17,7 @@ Effective ways to improve response factuality:
 - Including examples: questions LLMs can answer and questions LLMs cannot.  For those LLMs cannot answer, configure the response to instruct LLMs to admit they don’t know the answer (e.g., replying “I don’t know”).
 
 ### Examples
-
-参考prompt engineering guide
+![](../img/Examples/factuality.png)
 
 ## Biases
 

@@ -18,10 +18,14 @@ Chain of Thought (CoT) refers to a coherent series of intermediate reasoning ste
 Experiments has shown that chain-of-thought prompting improves performance on a range of arithmetic, commonsense, and symbolic reasoning tasks.
 
 #### Arithmetic Task
+![](../img/Examples/CoT_money.png)
 
 #### Commonsense Task
+![](../img/Examples/CoT_commensense.png)
 
 #### Symbolic Task
+![](../img/Examples/CoT_symbolic_false.png)
+![](../img/Examples/CoT_symbolic_true.png)
 
 ### Limitations
 
@@ -36,6 +40,7 @@ How does Zero-shot-CoT work
 ![](../img/how-zero-shot-cot-work.png)
 
 ### Examples
+![](../img/Examples/CoT_money_zero_shot.png)
 
 ### Results
 Experimental results demonstrate that Zero-shot-CoT outperforms LLMs' zero-shot performances on diverse benchmark reasoning tasks, including arithmetic, symbolic reasoning, and other logical reasoning tasks.
@@ -53,7 +58,7 @@ The figure below illustrates the difference between Chain-of-thought prompting a
 ![](../img/self-consistency.png)
 
 ### Examples
-需要自己举例，论文没有，任何例子，参考learningprompting，三个答案里面有两个一致即可
+*Image Placeholder*
 
 ### Results
 Compared to chain-of-thought prompting, self-consistency significantly improves performance in arithmetic, commonsense, and symbolic reasoning on a variety of popular benchmarks. These include GSM8K (+17.9%), SVAMP (+11.0%), AQuA (+12.2%), StrategyQA (+6.4%), and ARC-challenge (+3.9%).
