@@ -48,7 +48,7 @@
 与思维链相比，自恰性方法在算数类、常识类和符号类任务的众多基准上都有提升，包括GSM8K（+17.9%），SVAMP（+11.0%），AQuA（+12.2%），StrategyQA（+6.4%）以及ARC-challenge（+3.9%）。
 
 ### 局限
-自恰性的一个局限是它带来了更多的计算成本。
+自恰性的一个局限是它带来了更多的计算成本。在实际使用中，可以少量尝试几条路径（比如5条或者10条）来获取这一方法带来的好处，同时不会产生太多成本，因为在大多数情况下性能提升很快会放缓。
 
 ## Reference
 1. Wei, J., Wang, X., Schuurmans, D., Bosma, M., Chi, E., Le, Q., & Zhou, D. (2022). Chain of thought prompting elicits reasoning in large language models. arXiv preprint arXiv:2201.11903.
