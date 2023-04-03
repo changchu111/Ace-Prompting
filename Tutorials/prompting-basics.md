@@ -45,9 +45,13 @@ Giving instructions is the easiest and most commonly used prompting method. It r
 Below are some examples that provide instructions for LLMs.
 
 examples:
+### Translate
 ![](../img/Examples/translation_with_instruction.png)
+### Summarize
 ![](../img/Examples/summarize.png)
+### Calculate
 ![](../img/Examples/calculation_with_instruct.png)
+### Advise
 ![](../img/Examples/advice_marathon.png)
 
 It's worth noting that in the above example, different keywords lead to different results. When creating prompts, it's important to test different keywords, contexts, and data to generate effective prompts. Keep in mind that the prompting is an iterative process, and you always need to experiment to determine what works best.
