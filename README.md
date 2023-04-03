@@ -1,5 +1,7 @@
-# Prompt Engineering Tutorial 
-# 提示词工程教程
+# Ace Prompting
+Ace Promting是一个prompt engineering社区，我们提供免费的prompting教程，也帮助社区成员互助学习和对接工作机会
+
+加入我们的[Discord Community](https://discord.gg/eWD4shBz)
 
 ## 🤔 关于本教程
 如果你不知道ChatGPT可以用来做什么，或者总是调不出想要的效果，那么这份教程会对你有帮助。
@@ -26,7 +28,7 @@
 
 如果你需要AIGC前沿信息分享和社群讨论，欢迎加入我的知识星球，https://t.zsxq.com/0cRQQzSbC
 
-## 📎 目录
+## 🚀 目录
 
 - [基础篇]
 - [基础应用]
