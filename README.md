@@ -31,9 +31,13 @@ Ace Prompting是一个prompt engineering社区，我们提供免费的prompting�
 ## 🚀 目录
 
 - [基础篇 - Basics](Tutorials-CN/prompting-basics.md)
-- [基础应用]
-- [进阶篇]
-- [可靠性]
+- [基础应用 - Basic Applications](Tutorials-CN/prompting-basic-applications.md)
+- [进阶篇- Advanced Techniques](Tutorials-CN/prompting-advanced-techniques.md)
+- [可靠性 - Reliability](Tutorials-CN/prompting-reliability.md)
+- [图像篇 - Image Prompting](Tutorials-CN/prompting-image-prompting.md)
+- [黑客篇 - Prompt Hacking](Tutorials-CN/prompting-hacking.md)
+- [工具篇 - Tooling](Tutorials-CN/prompting-tooling.md)
+- [参考文献 - Bibliography](Tutorials-CN/prompting-bibliography.md)
 
 
 ## 💓 感谢
