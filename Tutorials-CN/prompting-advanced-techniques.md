@@ -49,3 +49,12 @@
 
 ### 局限
 自恰性的一个局限是它带来了更多的计算成本。
+
+## Reference
+1. Wei, J., Wang, X., Schuurmans, D., Bosma, M., Chi, E., Le, Q., & Zhou, D. (2022). Chain of thought prompting elicits reasoning in large language models. arXiv preprint arXiv:2201.11903.
+2. Kojima, T., Gu, S. S., Reid, M., Matsuo, Y., & Iwasawa, Y. (2022). Large language models are zero-shot reasoners. arXiv preprint arXiv:2205.11916.
+3. Wang, X., Wei, J., Schuurmans, D., Le, Q., Chi, E., & Zhou, D. (2022). Self-consistency improves chain of thought reasoning in language models. arXiv preprint arXiv:2203.11171.
+
+[上一章节（入门应用）](prompting-basic-applications.md)
+
+[下一章节（可靠性）](prompting-reliability.md)
