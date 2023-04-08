@@ -1,0 +1,8 @@
+{
+  "label": "进阶篇",
+  "position": 3,
+  "link": {
+    "type": "generated-index",
+    "description": "在这一章节，我们介绍提示词工程的高级用法。如果你还不熟悉提示词工程，可以先阅读基础篇。"
+  }
+}

@@ -1,0 +1,8 @@
+{
+  "label": "工具篇",
+  "position": 5,
+  "link": {
+    "type": "generated-index",
+    "description": "有一些工具可以帮助你更好的开发基于大语言模型的应用，或者帮你写出更好的提示词。这一章节我们介绍这样的工具。"
+  }
+}
